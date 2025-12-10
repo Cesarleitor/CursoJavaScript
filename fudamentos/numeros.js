@@ -1,5 +1,5 @@
 const peso1 = 1.0;
-const peso2 = Number('2.0');
+const peso2 = Number("2.0");
 
 console.log(peso1, peso2);
 //testa se é um número inteiro
