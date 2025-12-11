@@ -9,8 +9,8 @@ em JavaScript
 console.log("Comentários de múltiplas linhas");
 
 /*
-* comentário
-* estilizado
-* várias linhas
-*/
+ * comentário
+ * estilizado
+ * várias linhas
+ */
 console.log("Comentários múltiplas linhas estilizados");
